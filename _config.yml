@@ -1,4 +1,10 @@
 title: Eitan Sztuden
+author:
+  name: Eitan Sztuden
+  email: eitanszt@gmail.com
 logo: /assets/img/ProfilePicture.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
+
+social_links:
+- { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }

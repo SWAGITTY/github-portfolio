@@ -39,4 +39,5 @@
 ## EDIT
 #### IBM Data Science Capstone
 SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million USD; other providers cost upward of 165 million USD each, much of the savings is because SpaceX can reuse the first stage. Therefore determining if the first stage will land would also determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. The capstone evolved around predicting if the Falcon 9 first stage will land successfully.
-![[Link to the summary presentation](https://1drv.ms/p/s!An1vYqQgAd3e2TzuTzer0a8cBppb?e=6eQrrX)](/assets/img/ProfilePicture.jpg)
+![](/assets/img/IBM_DS_Capstone.png)
+[Link to the summary presentation](https://1drv.ms/p/s!An1vYqQgAd3e2TzuTzer0a8cBppb?e=6eQrrX)
